@@ -67,14 +67,18 @@ Include the following:
 - Include the following metrics in the table:
   
 1.Average math score
+
 2.Average reading score
+
 3.% passing math (the percentage of students who passed math)
+
 4.% passing reading (the percentage of students who passed reading)
+
 5.% overall passing (the percentage of students who passed math AND reading)
 
 #### Scores by School Size
 - Use the following code to bin the per_school_summary.
-  size_bins = [0, 1000, 2000, 5000] labels = ["Small (<1000)", "Medium (1000-2000)", "Large (2000-5000)"]
+  - size_bins = [0, 1000, 2000, 5000] labels = ["Small (<1000)", "Medium (1000-2000)", "Large (2000-5000)"]
 - Use pd.cut on the "Total Students" column of the per_school_summary DataFrame.
 - Create a DataFrame called size_summary that breaks down school performance based on school size (small, medium, or large).
   

@@ -106,19 +106,19 @@ Include the following:
 ## Report
 
 1.	The data we have included:
-•	A total number of (15) schools with (7 District and 8 Charter Types). 
-
-•	A total budget for all schools is ($24,649,428):
-
--	The school with the highest budget is (Bailey High School) with a budget of ($3,124,928).
--	The school with the lowest budget is (Holden High School) with a budget of ($248,087).
-
--	The school with the highest budget per student is (Huang High School) with a budget of ($655).
--	The school with the lowest budget per student is (Wilson High School) with a budget of ($578).
-
-•	A total number of (39,170) students all together:
--	The school with the highest number of students is (Bailey High School) with (4976) students which falls under the district type.
--	The school with the lowest number of students is (Holden High School) with (427) students which falls under the charter type.
+  -	A total number of (15) schools with (7 District and 8 Charter Types). 
+  
+  -	A total budget for all schools is ($24,649,428):
+  
+      -	The school with the highest budget is (Bailey High School) with a budget of ($3,124,928).
+      -	The school with the lowest budget is (Holden High School) with a budget of ($248,087).
+      
+      -	The school with the highest budget per student is (Huang High School) with a budget of ($655).
+      -	The school with the lowest budget per student is (Wilson High School) with a budget of ($578).
+    
+  -	A total number of (39,170) students all together:
+      -	The school with the highest number of students is (Bailey High School) with (4976) students which falls under the district type.
+      -	The school with the lowest number of students is (Holden High School) with (427) students which falls under the charter type.
 
 2.	Using the data given from the math and reading scores we were able to come up with a math average and reading average for all the students together:
  

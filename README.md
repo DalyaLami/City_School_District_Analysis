@@ -134,10 +134,12 @@ Include the following:
   -	Students on average did better in reading than in math and that goes for all students from any school, this means that all students struggled with math more than reading but what made a difference in their marks is how much extra help they could ask for and that is based on how big the classroom is.
     
 ## Result Screenshots
-* District Summary *
+#### District Summary:
+
 ![district_summary](Screenshots/district_summary.png)
 
-* Per School Summary *
+#### Per School Summary:
+
 ![per_school_summary](Screenshots/per_school_summary.png)
 
 ## References

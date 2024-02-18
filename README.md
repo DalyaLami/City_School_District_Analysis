@@ -27,21 +27,21 @@ Requirements for the software and other tools to build, test and push
 Perform the necessary calculations and then create a high-level snapshot of the district's key metrics in a DataFrame.
 Include the following:
 
-   1.Total number of unique schools
-    
-   2.Total students
-    
-   3.Total budget
-    
-   4.Average math score
-    
-   5.Average reading score
-    
-   6.% passing math (the percentage of students who passed math)
-    
-   7.% passing reading (the percentage of students who passed reading)
-    
-   8.% overall passing (the percentage of students who passed math AND reading)
+     1.Total number of unique schools
+      
+     2.Total students
+      
+     3.Total budget
+      
+     4.Average math score
+      
+     5.Average reading score
+      
+     6.% passing math (the percentage of students who passed math)
+      
+     7.% passing reading (the percentage of students who passed reading)
+      
+     8.% overall passing (the percentage of students who passed math AND reading)
 
 #### School Summary
 Perform the necessary calculations and then create a DataFrame that summarizes key metrics about each school.

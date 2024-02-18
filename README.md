@@ -11,7 +11,9 @@ Using Pandas and Jupyter Notebook, create a report that includes a written descr
 ### Prerequisites
 
 Requirements for the software and other tools to build, test and push 
-- [Pandas] (https://pypi.org/project/pandas/)
-- [Jupyter Notebook] (https://jupyter.org/)
+- [Pandas] ()
+- [Jupyter Notebook] ()
 
 
+- [Pandas](https://pypi.org/project/pandas/)
+- [Jupyter Notebook](https://jupyter.org/)
